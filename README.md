@@ -1,5 +1,7 @@
 ![preview](./preview.png)
 
+![boilerplate](https://img.shields.io/badge/boilerplate-v1.2.0-black.svg?style=flat-square) ![node](https://img.shields.io/badge/node-v16.20.0-black.svg?style=flat-square) ![next](https://img.shields.io/badge/next-v^13.2.0-m.svg?style=flat-square) ![react](https://img.shields.io/badge/react-v^18.2.0-blue.svg?style=flat-square)
+
 # NEXT boilerplate
 Template for Frontend with NextJS, ReactJS & SASS.
 
